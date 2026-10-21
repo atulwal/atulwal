@@ -27,12 +27,9 @@
 
 > 🚀 **Full-Stack Software Engineer & Backend Builder** dedicated to architecting scalable backend systems, high-throughput APIs, and responsive, interactive web applications.
 
-- 🔭 **Current Focus:** Distributed Systems, Advanced Database Optimization & Microservices Architecture
 - 💻 **Core Tech Stack:** TypeScript, React, Node.js, Express, PostgreSQL, Redis & Python
 - ⚡ **Engineering Highlights:** Built ACID-compliant payroll processing engines, conflict-free resource scheduling with PostgreSQL GiST constraints, and low-latency RESTful microservices
 - 🧩 **Competitive Programming:** Solved **700+ algorithmic problems** across LeetCode, Codeforces, and CodeChef
-- 🎯 **Tech Leadership:** Web Development & Tech Lead @ **Literati (NIT Raipur)**
-- 🎓 **Education:** B.Tech @ **National Institute of Technology Raipur** (2024–2028)
 - 💬 **Ask Me About:** Full-Stack Architecture, Backend Scaling, Database Indexing & Query Tuning, DSA
 
 ---
@@ -136,7 +133,6 @@
 - 🥇 **Odoo Hackathon 2026**: National Finalist, selected among the **top developer teams out of 17,000+ participants**.
 - 🥈 **Infotsav Hackathon (IIIT Gwalior)**: Finalist competing with **800+ engineering teams nationwide**.
 - 🧩 **Competitive Programming**: Solved **700+ problems** focusing on Graph Theory, Dynamic Programming, and Advanced Data Structures.
-- ⭐ **CodeChef 2-Star** (Peak Rating: 1411) & **LeetCode** (Peak Rating: 1500).
 
 ---
 
@@ -161,9 +157,6 @@
   </a>
   <a href="mailto:jaiswalatulya741@gmail.com">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/atulwal" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </div>
 
