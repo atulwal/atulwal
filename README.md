@@ -12,12 +12,6 @@
     <a href="mailto:jaiswalatulya741@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://leetcode.com/atulwal" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-    </a>
-    <a href="https://www.codechef.com/users/atulwal" target="_blank">
-      <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-    </a>
   </p>
 </div>
 
